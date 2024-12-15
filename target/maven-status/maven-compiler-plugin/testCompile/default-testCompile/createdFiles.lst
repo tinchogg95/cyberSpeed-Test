@@ -1,0 +1,6 @@
+game\ScratchGameTest.class
+game\winCombination\checker\BonusRewardsCheckerTest.class
+game\calculator\RewardCalculatorTest.class
+game\generator\MatrixGeneratorTest.class
+game\config\symbol\deserializer\SymbolDeserializerTest.class
+game\winCombination\checker\WinningCombinationCheckerTest.class

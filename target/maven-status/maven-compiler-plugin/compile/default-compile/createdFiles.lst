@@ -1,0 +1,14 @@
+game\ScratchGame.class
+game\config\probabilities\SymbolProbabilities.class
+game\winCombination\checker\WinningCombinationChecker.class
+game\generator\MatrixGenerator.class
+game\config\probabilities\Probabilities.class
+game\config\GameConfig.class
+game\config\probabilities\StandardProbabilities.class
+game\config\symbol\deserializer\SymbolDeserializer.class
+game\json\Response.class
+game\calculator\RewardCalculator.class
+game\config\symbol\SymbolType.class
+game\winCombination\checker\BonusRewardsChecker.class
+game\winCombination\WinCombination.class
+game\config\symbol\Symbol.class
