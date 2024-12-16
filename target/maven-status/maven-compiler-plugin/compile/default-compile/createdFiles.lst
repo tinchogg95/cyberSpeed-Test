@@ -6,7 +6,9 @@ game\config\probabilities\Probabilities.class
 game\config\GameConfig.class
 game\config\probabilities\StandardProbabilities.class
 game\config\symbol\deserializer\SymbolDeserializer.class
-game\json\Response.class
+game\output\json\Response.class
+game\input\Parser.class
+game\util\Constants.class
 game\calculator\RewardCalculator.class
 game\config\symbol\SymbolType.class
 game\winCombination\checker\BonusRewardsChecker.class

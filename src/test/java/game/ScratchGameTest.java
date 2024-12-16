@@ -17,7 +17,7 @@ public class ScratchGameTest {
         System.setOut(new PrintStream(outContent));
 
         ScratchGame game = new ScratchGame();
-        game.playGame(100.0);
+        game.playGame("config.json",100.0);
         
         String output = outContent.toString();
         assertFalse("The output should not be empty.", output.isEmpty());

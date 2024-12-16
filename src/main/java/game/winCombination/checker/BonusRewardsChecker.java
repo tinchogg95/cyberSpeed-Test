@@ -7,7 +7,6 @@ import game.config.GameConfig;
 import game.config.symbol.Symbol;
 
 public class BonusRewardsChecker {
-	private static String BONUS = "Bonus";
 	//returns rewards properties
 	public List<Symbol> getBonusRewards(String[][] matrix, GameConfig config){
 		List<Symbol> bonusSymbol = new ArrayList<Symbol>();
